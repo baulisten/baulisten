@@ -1,13 +1,15 @@
-## Fördermittelberatung | Forschungszulage (FZulG)
+# Martin Meng - Foerdermittelberatung Forschungszulage
 
-Professionelle Beratung zur [Forschungszulage](https://martinmeng.de/forschungszulage) fuer Solo-Selbstaendige, Freiberufler und Personengesellschaften.
+Beratung und Antragserstellung fuer die [Forschungszulage (FZulG)](https://martinmeng.de/forschungszulage).
 
-### Branchen
-- [Software-Entwicklung](https://martinmeng.de/forschungszulage-software-entwicklung) | [Handwerk](https://martinmeng.de/forschungszulage-handwerk) | [Landwirtschaft](https://martinmeng.de/forschungszulage-landwirtschaft) | [Freelancer](https://martinmeng.de/forschungszulage-freelancer) | [Tieraerzte](https://martinmeng.de/forschungszulage-tierarzt)
+## Links
 
-### Tools
-- [Forschungszulage-Rechner](https://martinmeng.de/forschungszulage-rechner) - Individuelle Foerderhoehe berechnen
-- [Rueckwirkend beantragen](https://martinmeng.de/forschungszulage-rueckwirkend-beantragen) - Bis 4 Jahre zurueck
+- [martinmeng.de](https://martinmeng.de) - Uebersicht
+- [Forschungszulage](https://martinmeng.de/forschungszulage) - Alle Informationen
+- [Rechner](https://martinmeng.de/rechner) - Foerderhoehe berechnen
+- [Erstgespraech buchen](https://martinmeng.de/kontakt)
 
-### Kontakt
-[martinmeng.de](https://martinmeng.de) | 0176 72224558
+Bis zu 42 EUR/h eigene Forschungsleistung ab 2026. Rueckwirkend bis 4 Jahre.
+Branchenunabhaengig: IT, Handwerk, Landwirtschaft, Medizintechnik.
+
+[Mastodon](https://mastodon.social/@forschungszulage) | [Dev.to](https://dev.to/baulisten) | [Hashnode](https://hashnode.com/@martinmeng) | [Codeberg](https://codeberg.org/forschungszulage)
